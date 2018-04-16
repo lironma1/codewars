@@ -1,2 +1,2 @@
-# codewars
-My solutions to the questions in codewars Coding kata
+# Solutions to CodeWars.com Katas
+This repository contains my solutions to codewars katas.
